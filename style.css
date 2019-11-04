@@ -1,0 +1,20 @@
+/* CSS Selectors */
+/* tag */
+/* .class */
+/* #id */
+
+h1,
+.text-red {
+  color: red;
+  background-color: aqua;
+}
+h1.text-red {
+  color: rgb(71, 16, 16);
+  display: inline;
+  font-size: 8em;
+  margin: 0;
+}
+#second {
+  color: black;
+  background-color: unset;
+}
